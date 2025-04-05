@@ -1,11 +1,8 @@
 import pandas as pd
 import numpy as np
-import pytz
 import mplfinance as mpl
-import datetime as dt
 import sys
 import MetaTrader5 as mt5
-from pandas import DataFrame
 
 class MT5:
     # Define Global attributes
