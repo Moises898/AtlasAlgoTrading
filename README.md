@@ -34,7 +34,7 @@
 # Installation
 
 1. Create a virtual env to avoid issues between versions using `python -m venv name_env`
-2. Activate virtual env and run `pip install pip install atlas-algo-trading`
+2. Activate virtual env and run `pip install atlas-algo-trading`
 3. Go to the examples section and modify the .env file with your own data to start interacting with MT5.
 
 <i>Note: You need to have a terminal of Metatrader 5 in your computer to work.</i>

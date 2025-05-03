@@ -6,7 +6,7 @@ def read_requirements():
 
 setup(
     name="atlas_algo_trading",
-    version="1.0.5",
+    version="1.0.6",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[
